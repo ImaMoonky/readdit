@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Slab', serif;
+}
+
+div {
+    background: #696969;
+    background: linear-gradient(0deg, #696969, 0%, #717171, 100%);
+    box-shadow: 0 .125rem .25rem .125rem rgba(0, 0, 0, 0.25);
+}
+
