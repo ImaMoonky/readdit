@@ -3,6 +3,8 @@
     "name": "Readit",
     "description": "Content summarizer for social media sites",
     "version": "1.0",
+    "permissions": ["activeTab", "webRequest"],
+    "host_permissions": ["https://evolving-porpoise-heartily.ngrok-free.app/*"],
     "action": {
         "default_popup": "index.html",
         "default_icon": {
